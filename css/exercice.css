@@ -24,5 +24,19 @@
   transform: translateX(392px);
 }
 /* 5. ABSOLUTE & TRANSFORM II */
+.exercice-absolute-transform-2 .block {
+  position: absolute;
+  transform: translateY(75px);
+}
+
+.exercice-absolute-transform-2 .block-black {
+  transform: translateX(196px) translateY(75px);
+}
+
+.exercice-absolute-transform-2 .block-blue {
+  transform: translateX(392px) translateY(75px);
+  
+}
+
 
 /* 6. ALL-IN */
